@@ -1,0 +1,16 @@
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.csproj.AssemblyReference.cache
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.AssemblyInfoInputs.cache
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.AssemblyInfo.cs
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.csproj.CoreCompileInputs.cache
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\bin\Debug\net5.0\Prov.exe
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\bin\Debug\net5.0\Prov.deps.json
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\bin\Debug\net5.0\Prov.runtimeconfig.json
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\bin\Debug\net5.0\Prov.runtimeconfig.dev.json
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\bin\Debug\net5.0\Prov.dll
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\bin\Debug\net5.0\ref\Prov.dll
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\bin\Debug\net5.0\Prov.pdb
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.dll
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\ref\Prov.dll
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.pdb
+C:\Users\joar.alstad\Desktop\POG2\Prov\Prov\obj\Debug\net5.0\Prov.genruntimeconfig.cache
